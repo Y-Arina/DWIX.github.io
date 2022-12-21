@@ -34,6 +34,7 @@ DWIX CINEMA - это развекательный сервис. Здесь вы 
 Ссылка на страницу проекта: <a href="https://y-arina.github.io/">DWIX Cinema</a><br>
 Ссфлка на репозиторий команды: <a href="https://github.com/Y-Arina/dwix"> DWIX Team</a><br><br>
 
+<img scr="https://user-images.githubusercontent.com/73604685/208948229-be4fd4e0-cf7b-49b1-a9c4-199e52922ae3.png" width="300" height="400">
 ![Главная страница](https://user-images.githubusercontent.com/73604685/208948229-be4fd4e0-cf7b-49b1-a9c4-199e52922ae3.png)
 ![О нас](https://user-images.githubusercontent.com/73604685/208949330-735fdf90-b1fc-46f9-8f32-bfc8e245d93a.png)
 ![Контент](https://user-images.githubusercontent.com/73604685/208949423-ef21829b-72ae-4537-be03-6577ac70e785.png)
