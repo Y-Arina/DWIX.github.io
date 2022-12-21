@@ -41,7 +41,7 @@ DWIX CINEMA - это развекательный сервис. Здесь вы 
 ![Блог](https://user-images.githubusercontent.com/73604685/208949617-0c18c1d4-9b18-46b2-9e2f-0b5e1b3fa0a9.png)
 ![Пост](https://user-images.githubusercontent.com/73604685/208949711-3ea16541-470e-4d4d-acff-345e971a2123.png)
 ![Вход](https://user-images.githubusercontent.com/73604685/208949783-a47a08c2-bfa4-41cd-90fe-a7654426c236.png)
-![Связь](https://user-images.githubusercontent.com/73604685/208949848-a18abb09-548c-46f4-b1f1-3dc3beaa21a8.png)
+![Связь](https://user-images.githubusercontent.com/73604685/208950568-3bdb983b-18f7-462a-b7f2-b03dfcffd335.png)
 ![Поиск](https://user-images.githubusercontent.com/73604685/208949923-b2a56fbd-d4b0-4698-ad6a-521e4e7814d0.png)
 
 
