@@ -32,6 +32,6 @@
 DWIX CINEMA - это развекательный сервис. Здесь вы можете посмотреть фильмы и сериалы,  узнать рейтинги и оценки популярного видеоконтента, написать рецензии, а также прочитать описание контента.
 <br><br>
 Ссылка на страницу проекта: <a href="https://y-arina.github.io/">DWIX Cinema</a><br>
-Ссфлка на репозиторий команды: <a href="https://github.com/Y-Arina/dwix"> DWIX Team</a><br>
-![Главная страница] (https://user-images.githubusercontent.com/73604685/208948229-be4fd4e0-cf7b-49b1-a9c4-199e52922ae3.png)
+Ссфлка на репозиторий команды: <a href="https://github.com/Y-Arina/dwix"> DWIX Team</a><br><br>
+![Главная страница](https://user-images.githubusercontent.com/73604685/208948229-be4fd4e0-cf7b-49b1-a9c4-199e52922ae3.png)
 
